@@ -1,4 +1,4 @@
-Build a Large Language Model (From Scratch) - Notes and Code Repository
+**Build a Large Language Model (From Scratch) - Notes and Code Repository**
 
 Welcome to the GitHub repository for "Build a Large Language Model (From Scratch)"! This repository contains my notes, code implementations, and additional resources from the book Build a Large Language Model (From Scratch) by Sebastian Raschka.
 
