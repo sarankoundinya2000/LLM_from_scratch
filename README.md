@@ -1,6 +1,6 @@
 # **Build a Large Language Model (From Scratch)**  
 
-Welcome to the GitHub repository for **"Build a Large Language Model (From Scratch)"!** This repository contains my detailed notes, code implementations, and additional resources inspired by the book *Build a Large Language Model (From Scratch)* by **Sebastian Raschka**.  
+Welcome to the GitHub repository for **"Build a Large Language Model (From Scratch)"!** This repository contains my detailed notes, code implementations, and additional resources 
 
 Here, I have recreated and modified key components of a transformer-based large language model, adding my own tweaks and explanations for enhanced understanding.  
 
